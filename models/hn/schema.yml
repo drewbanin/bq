@@ -1,0 +1,19 @@
+
+sql_submissions:
+    constraints:
+        not_null:
+            - submission_id
+
+        unique:
+            - submission_id
+            - submission_title # fails
+            - submission_author # fails
+
+        # relationships:
+        #     - {from: submission_id, to: ref('submissions'), field: id}
+
+submissions:
+    constraints:
+        not_null:
+            - id
+
