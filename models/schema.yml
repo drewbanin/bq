@@ -1,0 +1,8 @@
+
+idk:
+    constraints:
+        not_null:
+            - idk2
+
+        unique:
+            - idk2
