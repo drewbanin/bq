@@ -23,3 +23,4 @@ clean-targets:         # directories to be removed by `dbt clean`
     - "dbt_modules"
 
 # comment here
+d asdasd as
