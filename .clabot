@@ -1,0 +1,5 @@
+{
+  "contributors": "https://ecstatic-kowalevski-d36416.netlify.app/.netlify/functions/cla-check",
+  "message": "Thanks for your pull request, and welcome to our community! We require contributors to sign our [Contributor License Agreement](https://docs.google.com/forms/d/e/1FAIpQLScfOV7K4enYRHozrDRP6BBIXjOij-JDGca6WBTHyP_ANXSqlg/viewform) and we don't seem to have your signature on file. Check out [this article](https://docs.getdbt.com/docs/contributor-license-agreements) for more information on why we have a CLA.\n\nIn order for us to review and merge your code, please submit the Individual Contributor License Agreement form attached above above. If you have questions about the CLA, or if you believe you've received this message in error, don't hesitate to ping @drewbanin.\n\nCLA has not been signed by users: {{usersWithoutCLA}}",
+  "label": "cla:yes"
+}
